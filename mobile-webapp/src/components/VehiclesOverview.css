@@ -1,0 +1,39 @@
+.vehicles-overview-table{
+    margin: auto;
+}
+  
+.vehicles-overview-link{
+      color: darkslategray;
+      text-decoration: none;
+      background-color: #f60;
+      margin: auto;
+}
+
+.vehicles-overview-card{
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    background-color: beige;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.overview-pagination{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.vehicles-overview-button{
+  background-color: #f60;
+}
+.vehicle-overview-message{
+display: flex;
+justify-content: center;
+}
+
+.vehicles-overview-box{ 
+  display: 'flex';
+  flex-direction: 'column' 
+}
