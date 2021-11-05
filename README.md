@@ -1,7 +1,7 @@
 # Mobile.de mini application  
 
 A simple repository to implement a mini application for Mobile.de.   
-The project contains both Backend written in Java/Spring Boot and frontend written in ReactJs.  The directory *secretescapes-webapp* contains the frontend component.  
+The project contains both Backend written in Java/Spring Boot and frontend written in ReactJs.  The directory *mobile-webapp* contains the frontend component.  
 For database, one in-memory database, H2, have been used.
 
 I have used:    
